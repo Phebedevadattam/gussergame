@@ -1,4 +1,5 @@
 #importing necessary libraries
+#libraries
 import random as rd
 #take guessed number as input
 x=rd.randrange(1,100)
